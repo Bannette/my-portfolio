@@ -21,4 +21,13 @@ li a:hover:not(.active) {
   background-color: #111;
 }
 
-.
+h1{
+font-family: 'Righteous', cursive;
+}
+
+
+.img{
+  width: :20px;
+  text-align: center;;
+
+}
