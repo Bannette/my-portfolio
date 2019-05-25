@@ -13,6 +13,9 @@ This project contains information about me, my work experience in general before
 * CSS
 * BOOTSTRAP4
 
+## LIVE LINK
+https://bannette.github.io/my-portfolio/
+
 ## CONTACT INFORMATION
 Contact me via:
  * email banetaloo3@gmail.com
