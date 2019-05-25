@@ -15,9 +15,8 @@ This project contains information about me, my work experience in general before
 
 ## CONTACT INFORMATION
 Contact me via:
- email banetaloo3@gmail.com
- Phone number; 0720894970
+ * email banetaloo3@gmail.com
+ * Phone number; 0720894970
 
 ## LICENSE
 My project is Licensed by MIT
- 
