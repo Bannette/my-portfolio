@@ -42,6 +42,8 @@ font-family: 'Righteous', cursive;
 
 .center{
   text-align: center;
+  padding-left: 450px;
+  margin-bottom: 100px;
 }
 
 ol{
