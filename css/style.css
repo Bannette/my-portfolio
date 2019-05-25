@@ -32,9 +32,11 @@ font-family: 'Righteous', cursive;
 
 }
 
-body{
+/* body{
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 
-}
+} */
+
+/* Float four columns side by side */
