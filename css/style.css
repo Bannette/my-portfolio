@@ -32,7 +32,7 @@ font-family: 'Righteous', cursive;
 
 }
 
- body{
+ .barbra{
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -53,4 +53,17 @@ ol{
 .container{
   text-align: center;
 }
-/* Float four columns side by side */
+#home{
+  background:url('../image/home.jpg')100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  height:100vh;
+  position:top;
+  text-align: right;
+}
+
+.background{
+  background-image: url("../images/home.jpg");
+}
